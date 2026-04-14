@@ -12,7 +12,7 @@ My journey in Cyber Security has led me to develop a passion for Blue Team Opera
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Incident Response Report writing              | <a href="https://google.com">LetsDefend Practice</a>|
+| Incident Response Report writing              | <a href="https://github.com/xaviusjohnson44/LetsDefendReports/tree/main">LetsDefend Practice</a>|
 
 ## Tools
 
