@@ -10,23 +10,19 @@ I am a recent graduate with a passion for Information Technology and a dedicatio
 My journey in Cyber Security has led me to develop a passion for Blue Team Operations, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1/2 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Incident Response Report writing              | <a href="https://github.com/xaviusjohnson44/LetsDefendReports/tree/main">LetsDefend Practice</a>|
-
+| Ability to use Microsoft Sentinel in an incident investigation    | <a href="https://github.com/xaviusjohnson44/Microsoft-Sentinel-SIEM/tree/main">Microsoft Sentinel </a>|
+| Familiarity with MITRE ATT&CK tactics, techniques, and procedures | <a href="https://github.com/xaviusjohnson44/LetsDefendReports/tree/main">LetsDefend Practice</a>|
+| Ability to use SIEMs, Threat intelligence and log analysis to solve a SOC investigation. | <a href="https://github.com/xaviusjohnson44/LetsDefendReports/tree/main">LetsDefend Practice</a>|
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    Coming Soon
 </div>
 
 ### SIEM
@@ -41,4 +37,4 @@ My journey in Cyber Security has led me to develop a passion for Blue Team Opera
 </div>
 
 ## Projects
-- Coming Soon
+<a href="https://github.com/xaviusjohnson44/Microsoft-Sentinel-SIEM/tree/main">Microsoft Sentinel Skills Project</a>
