@@ -38,3 +38,4 @@ My journey in Cyber Security has led me to develop a passion for Blue Team Opera
 
 ## Projects
 <a href="https://github.com/xaviusjohnson44/Microsoft-Sentinel-SIEM/tree/main">Microsoft Sentinel Skills Project</a>
+<a href="https://github.com/xaviusjohnson44/LetsDefendReports/tree/main">LetsDefend Practice</a>
