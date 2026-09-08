@@ -8,7 +8,7 @@ I am an aspiring GRC Analyst who combines technical skills, soft skills, and cyb
 ### Risk Management
 | Project | Skills Demonstrated |
 |----------|----------|
-| <a href="https://github.com/xaviusjohnson44/Cat-Cafe-Risk-Registry">"Cat Café Risk Register"</a> | Risk Assessment, Risk Analysis |
+| <a href="https://github.com/xaviusjohnson44/Cat-Cafe-Risk-Registry">"Cat Café Risk Register"</a>😺☕ | Risk Assessment, Risk Analysis |
 
 
 ## Certifications
