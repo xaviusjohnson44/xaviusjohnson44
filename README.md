@@ -9,7 +9,7 @@ I am an aspiring GRC Analyst who combines technical skills, soft skills, and cyb
 | Project | Skills Demonstrated |
 |----------|----------|
 | <a href="https://github.com/xaviusjohnson44/Cat-Cafe-Risk-Registry">"Cat Café Risk Register"</a>😺☕ | Risk Assessment, Risk Analysis |
-
+|<a href="https://github.com/xaviusjohnson44/"> Policy Review </a> |ISO 27001:2022 Policy Review, Security Framework Mapping, Executive and Advisory Communication, ISMS document analysis, Normative Clauses, Governance, Leadership, Policy   |
 
 ## Certifications
 <div>
