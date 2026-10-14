@@ -2,13 +2,13 @@
 
 Welcome to my cybersecurity GRC portfolio!
 
-I am an aspiring GRC Analyst who combines technical skills, soft skills, and cybersecurity interests to help keep organizations safe and compliant.
+I am a Junior GRC Analyst who combines technical skills, soft skills, and experience to help keep organizations safe and compliant.
 
 ## Projects
 ### Risk Management
 | Project | Skills Demonstrated |
 |----------|----------|
-| <a href="https://github.com/xaviusjohnson44/Cat-Cafe-Risk-Registry">" Small business Risk Register"</a> | Risk Assessment, Risk Analysis |
+| <a href="https://github.com/xaviusjohnson44/Cat-Cafe-Risk-Registry">" Small Business Risk Register"</a> | Risk Assessment, Risk Analysis |
 |<a href="https://github.com/xaviusjohnson44/Policy-Review/blob/main/README.md"> Policy Review </a> |ISO 27001:2022 Policy Review, Security Framework Mapping, Executive and Advisory Communication, ISMS document analysis, Normative Clauses, Governance, Leadership, Policy   |
 
 ## Certifications
